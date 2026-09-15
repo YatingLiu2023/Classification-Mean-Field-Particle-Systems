@@ -104,7 +104,7 @@ Hyperparameters are selected using validation accuracy only. The selected config
 
 The exact outputs used for the numerical summaries are stored under [`reference_results/`](../reference_results/).
 
-### Plug-in classifier and \(D\) selection
+### Plug-in classifier and D selection
 
 ```text
 reference_results/paper_untruncated_20260909/
