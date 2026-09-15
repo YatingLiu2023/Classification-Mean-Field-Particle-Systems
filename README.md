@@ -7,7 +7,7 @@ It implements the numerical experiments for:
 * the two-class setting of Scenario A;
 * the five-class setting of Scenario B;
 * the B-spline plug-in classifier and drift estimation;
-* Hyperparameter selection of the spline dimension \(D\);
+* Hyperparameter selection of the spline dimension $D$;
 * direct neural-network classification baselines;
 * the model figures used in the paper.
 
