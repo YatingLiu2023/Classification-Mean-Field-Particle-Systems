@@ -1,0 +1,35 @@
+{
+  "profile": "paper",
+  "base_seed": 20260903,
+  "total_time": 1.0,
+  "simulation_steps": 100,
+  "observation_steps": [
+    10,
+    100
+  ],
+  "total_particles_per_class": [
+    100,
+    1000
+  ],
+  "repetitions": 50,
+  "theta0_values": [
+    1.0,
+    0.5
+  ],
+  "D_candidates": [
+    2,
+    5,
+    10,
+    15,
+    20
+  ],
+  "train_fraction": 0.6,
+  "degree": 2,
+  "domain_half_width": 6.0,
+  "priors": [
+    0.5,
+    0.5
+  ],
+  "clip_estimator": false,
+  "pair_chunk_size": 128
+}

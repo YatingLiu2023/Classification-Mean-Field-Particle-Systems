@@ -1,0 +1,17 @@
+regime,M,N_total,strategy,classification_best_mean_D,classification_one_se_D,drift_best_mean_D,drift_one_se_D
+A(i),10,100,independent,2,2,2,2
+A(i),10,100,within,2,2,2,2
+A(i),10,1000,independent,2,2,2,2
+A(i),10,1000,within,10,2,2,2
+A(i),100,100,independent,5,2,2,2
+A(i),100,100,within,2,2,2,2
+A(i),100,1000,independent,10,2,2,2
+A(i),100,1000,within,10,2,2,2
+A(ii),10,100,independent,2,2,2,2
+A(ii),10,100,within,2,2,2,2
+A(ii),10,1000,independent,2,2,2,2
+A(ii),10,1000,within,2,2,2,2
+A(ii),100,100,independent,2,2,2,2
+A(ii),100,100,within,2,2,2,2
+A(ii),100,1000,independent,10,2,2,2
+A(ii),100,1000,within,10,2,2,2

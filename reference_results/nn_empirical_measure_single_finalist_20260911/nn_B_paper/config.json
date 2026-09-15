@@ -1,0 +1,31 @@
+{
+  "profile": "paper",
+  "scenario": "B",
+  "base_seed": 20260907,
+  "total_time": 1.0,
+  "simulation_steps": 100,
+  "observation_steps": [
+    10,
+    100
+  ],
+  "train_particles_per_class": [
+    100,
+    1000
+  ],
+  "test_particles_per_class": 1000,
+  "repetitions": 50,
+  "theta_values": [
+    -6.0,
+    -3.0,
+    0.0,
+    3.0,
+    6.0
+  ],
+  "trials": 20,
+  "tune_epochs": 20,
+  "max_epochs": 500,
+  "batch_size": 256,
+  "patience": 25,
+  "validation_protocol": "empirical_measure_system",
+  "sparsity_budget": 500
+}
